@@ -1,5 +1,12 @@
 # Dynamic_Card_Render
 
-A simple and interactive project built with HTML5, CSS3, and JavaScript (ES6 Modules). 🚀 It dynamically renders user profile cards from a data source, includes smart image fallback handling 🖼️, and adds button interactions with event listeners 🎯.  
+📌 Dynamic Card Render Project
+This project dynamically generates profile cards using Vanilla JavaScript (ES6 Modules). Card data is imported from a separate file and rendered dynamically in the DOM.
 
-💡 Clean structure • 📦 Modular code • 📱 Responsive • ⚡ Dynamic DOM rendering
+🚀 Features
+- Dynamic card rendering using JavaScript
+- ES6 Module import/export
+- Image fallback handling
+- Button click interaction (shows alert with employer name)
+- Responsive layout with Flexbox
+- Clean and modular file structure
